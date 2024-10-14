@@ -1,1 +1,6 @@
 streamlit
+datetime
+random
+altair
+numpy
+pandas
